@@ -1,3 +1,7 @@
+**Author: Arpa Barua**
+date: 9/11/2017
+
+
 ### Handlebars
 With Handlebars, the generation of HTML can be seperated from the rest of the JavaScript and write cleaner code.
 
