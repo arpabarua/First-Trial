@@ -6,7 +6,4 @@ dist
 .sass-cache
 .awspublish*
 config.json
-secrets.txt
-anothersecret.txt
-secret-folder
 *.log
